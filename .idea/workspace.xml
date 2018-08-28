@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11601b49-68fd-4c57-9ddc-2973d45d260e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="11601b49-68fd-4c57-9ddc-2973d45d260e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,88 +19,43 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="1885" />
+          <entry key="java" value="2926" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1885" />
+          <entry key="JAVA" value="2926" />
           <entry key="PLAIN_TEXT" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.remote" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NestedClass/InnerOuter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-              <folding>
-                <element signature="e#77#78#0" expanded="true" />
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#453#454#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NestedClass/OuterInnerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loops/ForLoops.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loops/WhileLoop.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BufferReader/BfReader.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loops/DoWhileLoops.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/Exception.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+              <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,7 +70,9 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_COMMON_BRANCH" value="master" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -134,12 +89,17 @@
         <option value="$PROJECT_DIR$/src/loops/WhileLoop.java" />
         <option value="$PROJECT_DIR$/src/loops/DoWhileLoops.java" />
         <option value="$PROJECT_DIR$/src/ExceptionHandling/Exception.java" />
+        <option value="$PROJECT_DIR$/src/Scanner/Scan.java" />
+        <option value="$PROJECT_DIR$/src/Random/RandomUse.java" />
+        <option value="$PROJECT_DIR$/src/FileReader/FileReaderTest.java" />
+        <option value="$PROJECT_DIR$/src/FileReader/Filemethods.java" />
+        <option value="$PROJECT_DIR$/src/BufferReader/BfReader.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="45" />
-    <option name="y" value="39" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="412" />
+    <option name="y" value="44" />
     <option name="width" value="1280" />
     <option name="height" value="641" />
   </component>
@@ -171,7 +131,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535421721400" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535426166675" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -185,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exception">
+  <component name="RunManager" selected="Application.FileReaderTest">
     <configuration name="DoWhileLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loops.DoWhileLoops" />
       <module name="HomeWorkProject" />
@@ -212,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.ForLoops" />
+    <configuration name="FileReaderTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReader.FileReaderTest" />
       <module name="HomeWorkProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="FileReader.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -225,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterInnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NestedClass.OuterInnerTest" />
+    <configuration name="RandomUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Random.RandomUse" />
       <module name="HomeWorkProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="NestedClass.*" />
+          <option name="PATTERN" value="Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +198,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.WhileLoop" />
+    <configuration name="Scan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scanner.Scan" />
       <module name="HomeWorkProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="Scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,19 +212,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.OuterInnerTest" />
-      <item itemvalue="Application.ForLoops" />
-      <item itemvalue="Application.WhileLoop" />
       <item itemvalue="Application.DoWhileLoops" />
       <item itemvalue="Application.Exception" />
+      <item itemvalue="Application.Scan" />
+      <item itemvalue="Application.RandomUse" />
+      <item itemvalue="Application.FileReaderTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileReaderTest" />
+        <item itemvalue="Application.RandomUse" />
+        <item itemvalue="Application.Scan" />
         <item itemvalue="Application.Exception" />
         <item itemvalue="Application.DoWhileLoops" />
-        <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.ForLoops" />
-        <item itemvalue="Application.OuterInnerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -282,22 +242,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="78" y="27" width="1280" height="641" extended-state="0" />
+    <frame x="96" y="228" width="1280" height="641" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32969034" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32969034" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32969034" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32969034" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20582879" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,18 +327,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NestedClass/InnerOuter.java">
+    <entry file="file://$PROJECT_DIR$/src/ExeptionHandlign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
-          <folding>
-            <element signature="e#77#78#0" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/loops/DoWhileLoops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -402,24 +369,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExeptionHandlign.java">
+    <entry file="file://$PROJECT_DIR$/src/NestedClass/InnerOuter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        <state relative-caret-position="60">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding>
+            <element signature="e#77#78#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#575#576#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops/DoWhileLoops.java">
+    <entry file="file://$PROJECT_DIR$/src/Random/RandomUse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scanner/Scan.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExceptionHandling/Exception.java">
+    <entry file="file://$PROJECT_DIR$/src/FileReader/Filemethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="6" lean-forward="true" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        <state relative-caret-position="330">
+          <caret line="22" column="32" lean-forward="true" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileReader/FileReaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BufferReader/BfReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
