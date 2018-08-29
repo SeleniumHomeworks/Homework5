@@ -25,23 +25,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="27" />
+          <entry key="java" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="java" value="5054" />
+          <entry key="java" value="5283" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="5054" />
+          <entry key="JAVA" value="5283" />
           <entry key="PLAIN_TEXT" value="19" />
         </counts>
       </usages-collector>
@@ -63,11 +63,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Strings/StringM.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="228">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Singleton/SingletonTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -115,12 +133,14 @@
         <option value="$PROJECT_DIR$/src/Arrays/Array.java" />
         <option value="$PROJECT_DIR$/src/Strings/StringMethods.java" />
         <option value="$PROJECT_DIR$/src/Strings/StringM.java" />
+        <option value="$PROJECT_DIR$/src/Singleton/SingletonTest.java" />
+        <option value="$PROJECT_DIR$/src/Singleton/Singleton.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-14" />
-    <option name="y" value="50" />
+    <option name="x" value="158" />
+    <option name="y" value="76" />
     <option name="width" value="1280" />
     <option name="height" value="641" />
   </component>
@@ -147,6 +167,12 @@
               <item name="HomeWorkProject" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeWorkProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Singleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorkProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorkProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Strings" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -158,7 +184,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535515721502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535517574505" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringM">
+  <component name="RunManager" selected="Application.SingletonTest">
     <configuration name="Hashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DataStructure.Hashmap" />
       <module name="HomeWorkProject" />
@@ -199,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructure.Stack" />
+    <configuration name="SingletonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.SingletonTest" />
       <module name="HomeWorkProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructure.*" />
+          <option name="PATTERN" value="Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,19 +265,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Stack" />
       <item itemvalue="Application.Queue" />
       <item itemvalue="Application.Hashmap" />
       <item itemvalue="Application.StringMethods" />
       <item itemvalue="Application.StringM" />
+      <item itemvalue="Application.SingletonTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonTest" />
         <item itemvalue="Application.StringM" />
         <item itemvalue="Application.StringMethods" />
         <item itemvalue="Application.Hashmap" />
         <item itemvalue="Application.Queue" />
-        <item itemvalue="Application.Stack" />
       </list>
     </recent_temporary>
   </component>
@@ -269,10 +295,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-14" y="50" width="1280" height="641" extended-state="0" />
+    <frame x="158" y="76" width="1280" height="641" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -281,7 +307,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.25318763" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25318763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -473,8 +499,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Strings/StringM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="228">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton/SingletonTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
         </state>
       </provider>
     </entry>
